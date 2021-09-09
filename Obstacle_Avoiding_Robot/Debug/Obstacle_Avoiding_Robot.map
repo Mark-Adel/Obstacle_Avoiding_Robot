@@ -1,0 +1,763 @@
+Archive member included because of file (symbol)
+
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              ./EXTI_progr.o (__udivmodhi4)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./main.o (__do_copy_data)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./EXTI_progr.o (__do_clear_bss)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./LCD_program.o (__fixunssfsi)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./LCD_program.o (__mulsf3)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./ultrasonic_prog.o (__divsf3)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./LCD_program.o (__gtsf2)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./LCD_program.o (__ltsf2)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./DC_motor_program.o
+LOAD ./DIO_fun.o
+LOAD ./EXTI_progr.o
+LOAD ./LCD_program.o
+LOAD ./TIM_Prog.o
+LOAD ./globel_int.o
+LOAD ./main.o
+LOAD ./ultrasonic_prog.o
+LOAD e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2650
+ *(.vectors)
+ .vectors       0x00000000       0x54 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __vector_12
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_13
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_5
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./DC_motor_program.o
+ .text          0x00000092        0x0 ./DIO_fun.o
+ .text          0x00000092        0x0 ./EXTI_progr.o
+ .text          0x00000092        0x0 ./LCD_program.o
+ .text          0x00000092        0x0 ./TIM_Prog.o
+ .text          0x00000092        0x0 ./globel_int.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 ./ultrasonic_prog.o
+ .text          0x00000092        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000092        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000952        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000952      0x1aa e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000952                __pack_f
+ .text          0x00000afc       0xf0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000afc                __unpack_f
+ .text          0x00000bec       0xb2 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000bec                __fpcmp_parts_f
+                0x00000c9e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.DC_MOTOR_void_init
+                0x00000c9e       0x2e ./DC_motor_program.o
+                0x00000c9e                DC_MOTOR_void_init
+ .text.Move_right
+                0x00000ccc       0x42 ./DC_motor_program.o
+                0x00000ccc                Move_right
+ .text.Move_left
+                0x00000d0e       0x42 ./DC_motor_program.o
+                0x00000d0e                Move_left
+ .text.GO_Straight
+                0x00000d50       0x48 ./DC_motor_program.o
+                0x00000d50                GO_Straight
+ .text.GO_Backward
+                0x00000d98       0x48 ./DC_motor_program.o
+                0x00000d98                GO_Backward
+ .text.DC_MOTOR1_PWM
+                0x00000de0       0x1a ./DC_motor_program.o
+                0x00000de0                DC_MOTOR1_PWM
+ .text.DC_MOTOR2_PWM
+                0x00000dfa       0x1a ./DC_motor_program.o
+                0x00000dfa                DC_MOTOR2_PWM
+ .text.DC_MOTOR_STOP
+                0x00000e14       0x1a ./DC_motor_program.o
+                0x00000e14                DC_MOTOR_STOP
+ .text.DIO_U8TogelPin
+                0x00000e2e       0x38 ./DIO_fun.o
+                0x00000e2e                DIO_U8TogelPin
+ .text.DIO_voidSetPinDirection
+                0x00000e66      0x200 ./DIO_fun.o
+                0x00000e66                DIO_voidSetPinDirection
+ .text.DIO_voidSetPinValue
+                0x00001066      0x200 ./DIO_fun.o
+                0x00001066                DIO_voidSetPinValue
+ .text.DIO_u8GetPinValue
+                0x00001266      0x10e ./DIO_fun.o
+                0x00001266                DIO_u8GetPinValue
+ .text.DIO_voidSetPortDirection
+                0x00001374       0x82 ./DIO_fun.o
+                0x00001374                DIO_voidSetPortDirection
+ .text.DIO_voidSetPortValue
+                0x000013f6       0x82 ./DIO_fun.o
+                0x000013f6                DIO_voidSetPortValue
+ .text.EXTI0_VoidInti
+                0x00001478       0x26 ./EXTI_progr.o
+                0x00001478                EXTI0_VoidInti
+ .text.EXTI1_VoidInti
+                0x0000149e       0x30 ./EXTI_progr.o
+                0x0000149e                EXTI1_VoidInti
+ .text.EXTI2_VoidInti
+                0x000014ce       0x30 ./EXTI_progr.o
+                0x000014ce                EXTI2_VoidInti
+ .text.EXTI_VoidSenseLevel
+                0x000014fe      0x1e2 ./EXTI_progr.o
+                0x000014fe                EXTI_VoidSenseLevel
+ .text.EXTI_VoidDesEnabel
+                0x000016e0       0x6e ./EXTI_progr.o
+                0x000016e0                EXTI_VoidDesEnabel
+ .text.__vector_1
+                0x0000174e       0xd4 ./EXTI_progr.o
+                0x0000174e                __vector_1
+ .text.__vector_2
+                0x00001822       0x20 ./EXTI_progr.o
+                0x00001822                __vector_2
+ .text.__vector_3
+                0x00001842       0x20 ./EXTI_progr.o
+                0x00001842                __vector_3
+ .text.LCD_voidSendCommand
+                0x00001862      0x13c ./LCD_program.o
+                0x00001862                LCD_voidSendCommand
+ .text.LCD_voidSendData
+                0x0000199e      0x13c ./LCD_program.o
+                0x0000199e                LCD_voidSendData
+ .text.LCD_voidInit
+                0x00001ada      0x142 ./LCD_program.o
+                0x00001ada                LCD_voidInit
+ .text.LCD_voidSendString
+                0x00001c1c       0x52 ./LCD_program.o
+                0x00001c1c                LCD_voidSendString
+ .text.LCD_VoidGotoXY
+                0x00001c6e       0x44 ./LCD_program.o
+                0x00001c6e                LCD_VoidGotoXY
+ .text.LCD_VoidSpecialCaCharactar
+                0x00001cb2       0x92 ./LCD_program.o
+                0x00001cb2                LCD_VoidSpecialCaCharactar
+ .text.LCD_Clear_Bits
+                0x00001d44       0x2e ./LCD_program.o
+                0x00001d44                LCD_Clear_Bits
+ .text.print_num
+                0x00001d72       0xb0 ./LCD_program.o
+                0x00001d72                print_num
+ .text.TIM0_VoidInt
+                0x00001e22       0x70 ./TIM_Prog.o
+                0x00001e22                TIM0_VoidInt
+ .text.PWM_VoidSetOCR0
+                0x00001e92       0x1c ./TIM_Prog.o
+                0x00001e92                PWM_VoidSetOCR0
+ .text.TIM0_VoidSetTimerValue
+                0x00001eae       0x1c ./TIM_Prog.o
+                0x00001eae                TIM0_VoidSetTimerValue
+ .text.TIM0_VoidGetTimerValue
+                0x00001eca       0x14 ./TIM_Prog.o
+                0x00001eca                TIM0_VoidGetTimerValue
+ .text.TIM1_VoidInt
+                0x00001ede       0x7c ./TIM_Prog.o
+                0x00001ede                TIM1_VoidInt
+ .text.TIM1_TOPVALU
+                0x00001f5a       0x24 ./TIM_Prog.o
+                0x00001f5a                TIM1_TOPVALU
+ .text.TIM1_SETCHANALCOMPERMATCH
+                0x00001f7e       0x24 ./TIM_Prog.o
+                0x00001f7e                TIM1_SETCHANALCOMPERMATCH
+ .text.TIM1_VoidSetTimerValue
+                0x00001fa2       0x24 ./TIM_Prog.o
+                0x00001fa2                TIM1_VoidSetTimerValue
+ .text.TIM1_VoidGetTimerValue
+                0x00001fc6       0x16 ./TIM_Prog.o
+                0x00001fc6                TIM1_VoidGetTimerValue
+ .text.__vector_11
+                0x00001fdc       0x2e ./TIM_Prog.o
+                0x00001fdc                __vector_11
+ .text.PWM_VoidSetOCR2
+                0x0000200a       0x1c ./TIM_Prog.o
+                0x0000200a                PWM_VoidSetOCR2
+ .text.TIM2_VoidInt
+                0x00002026       0x62 ./TIM_Prog.o
+                0x00002026                TIM2_VoidInt
+ .text.TIM2_VoidGetTimerValue
+                0x00002088       0x14 ./TIM_Prog.o
+                0x00002088                TIM2_VoidGetTimerValue
+ .text.TIM2_VoidSetTimerValue
+                0x0000209c       0x1c ./TIM_Prog.o
+                0x0000209c                TIM2_VoidSetTimerValue
+ .text.Servo_void_Init
+                0x000020b8       0x2e ./TIM_Prog.o
+                0x000020b8                Servo_void_Init
+ .text.GLOBEL_INTENABEL
+                0x000020e6       0x1c ./globel_int.o
+                0x000020e6                GLOBEL_INTENABEL
+ .text.main     0x00002102      0x1e6 ./main.o
+                0x00002102                main
+ .text.ULT_Int  0x000022e8       0x2c ./ultrasonic_prog.o
+                0x000022e8                ULT_Int
+ .text.ULT_Read
+                0x00002314      0x2a2 ./ultrasonic_prog.o
+                0x00002314                ULT_Read
+ .text.libgcc   0x000025b6       0x28 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x000025b6                __udivmodhi4
+ .text.libgcc   0x000025de        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x000025de        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x000025de        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x000025de       0x38 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x000025de                __prologue_saves__
+ .text.libgcc   0x00002616       0x36 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002616                __epilogue_restores__
+                0x0000264c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000264c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x0000264c                exit
+                0x0000264c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000264c        0x4 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002650                _etext = .
+
+.data           0x00800060       0x14 load address 0x00002650
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./DC_motor_program.o
+ .data          0x00800060        0x0 ./DIO_fun.o
+ .data          0x00800060        0x0 ./EXTI_progr.o
+ .data          0x00800060        0x0 ./LCD_program.o
+ .data          0x00800060        0x0 ./TIM_Prog.o
+ .data          0x00800060        0x0 ./globel_int.o
+ .data          0x00800060        0xc ./main.o
+ .data          0x0080006c        0x0 ./ultrasonic_prog.o
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x0080006c        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x0080006c        0x8 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x0080006c                __thenan_sf
+ .data          0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800074                . = ALIGN (0x2)
+                0x00800074                _edata = .
+                0x00800074                PROVIDE (__data_end, .)
+
+.bss            0x00800074        0x4
+                0x00800074                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x00800074        0x0 ./DC_motor_program.o
+ .bss           0x00800074        0x0 ./DIO_fun.o
+ .bss           0x00800074        0x0 ./EXTI_progr.o
+ .bss           0x00800074        0x0 ./LCD_program.o
+ .bss           0x00800074        0x0 ./TIM_Prog.o
+ .bss           0x00800074        0x0 ./globel_int.o
+ .bss           0x00800074        0x0 ./main.o
+ .bss           0x00800074        0x0 ./ultrasonic_prog.o
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x00800074        0x0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.bss*)
+ .bss.y.1412    0x00800074        0x1 ./EXTI_progr.o
+ .bss.Global_Counter
+                0x00800075        0x1 ./main.o
+                0x00800075                Global_Counter
+ .bss.local_timval
+                0x00800076        0x2 ./main.o
+                0x00800076                local_timval
+ *(COMMON)
+                0x00800078                PROVIDE (__bss_end, .)
+                0x00002650                __data_load_start = LOADADDR (.data)
+                0x00002664                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800078        0x0
+                0x00800078                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800078                PROVIDE (__noinit_end, .)
+                0x00800078                _end = .
+                0x00800078                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x24fc
+ *(.stab)
+ .stab          0x00000000      0x5f4 ./DC_motor_program.o
+ .stab          0x000005f4      0x4c8 ./DIO_fun.o
+                                0x540 (size before relaxing)
+ .stab          0x00000abc      0x4e0 ./EXTI_progr.o
+                                0x4ec (size before relaxing)
+ .stab          0x00000f9c      0x828 ./LCD_program.o
+                                0x9c0 (size before relaxing)
+ .stab          0x000017c4      0x504 ./TIM_Prog.o
+                                0x57c (size before relaxing)
+ .stab          0x00001cc8      0x114 ./globel_int.o
+                                0x18c (size before relaxing)
+ .stab          0x00001ddc      0x39c ./main.o
+                                0x5a0 (size before relaxing)
+ .stab          0x00002178      0x384 ./ultrasonic_prog.o
+                                0x588 (size before relaxing)
+
+.stabstr        0x00000000     0x10ea
+ *(.stabstr)
+ .stabstr       0x00000000     0x10ea ./DC_motor_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x160
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000120       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000140       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x18f
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x1f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x00000148       0x21 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x00000169       0x26 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_info     0x00000000     0x2045
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x2df e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001be4      0x251 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00001e35      0x210 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1101
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x1c0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x00000e72      0x154 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x00000fc6      0x13b e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_line     0x00000000      0xf82
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x18a e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000d00      0x14b e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00000e4b      0x137 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_frame    0x00000000      0x180
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000140       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x00000160       0x20 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2c2
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0xf e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000277        0x8 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x0000027f        0x8 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000287        0xa e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x00000291       0x16 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002a7        0xb e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002b2       0x10 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+
+.debug_loc      0x00000000      0x88e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654      0x13e e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000792       0xac e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000083e       0x50 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Obstacle_Avoiding_Robot.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 e:/mark/eecs/embedded systems - iti summer training 2021/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
